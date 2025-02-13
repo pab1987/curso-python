@@ -54,5 +54,13 @@
         "brand": "ChargeMaster",
         "category": "Accessories",
         "entry_date": "2024-07-01"
+    },
+    {
+        "name": "Wireless Chager",
+        "price": "75",
+        "quantity": 100,
+        "brand": "ChartgerMaster",
+        "category": "Accessories",
+        "entry_date": "2025-02-12"
     }
 ]
