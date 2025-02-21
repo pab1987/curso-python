@@ -1,0 +1,3 @@
+2025-02-17 12:05:10 - Acción: realizar_tarea - Args: ('Pablo', 'Revisar inventario'), Kwargs: {}
+2025-02-17 12:05:10 - Acción: marcar_entrada - Args: ('Miguel',), Kwargs: {}
+2025-02-17 12:05:10 - Acción: marcar_salida - Args: ('Juanita',), Kwargs: {}
